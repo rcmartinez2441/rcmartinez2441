@@ -31,6 +31,5 @@
 </p>
 
 <p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rcmartinez2441" alt="rcmartinez2441" /></a>
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rcmartinez2441&show_icons=true&locale=en" alt="rcmartinez2441" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rcmartinez2441&show_icons=true&locale=en&layout=compact" alt="rcmartinez2441" /></p>
